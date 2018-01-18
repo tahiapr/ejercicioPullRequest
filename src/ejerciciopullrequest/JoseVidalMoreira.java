@@ -10,5 +10,5 @@ package ejerciciopullrequest;
  * @author jvidalmoreira
  */
 public class JoseVidalMoreira {
-    
+    //clase añladida
 }
